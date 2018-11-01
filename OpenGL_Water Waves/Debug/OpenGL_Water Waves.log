@@ -1,0 +1,39 @@
+﻿  OpenGL Vertex Shader Experiments.cpp
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\utilities.hpp(177): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\utilities.hpp(565): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(62): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(67): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(68): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(69): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(71): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(97): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(101): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(103): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(139): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(140): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(150): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(172): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(259): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(260): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(275): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(284): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(295): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(296): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(299): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(300): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(318): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(319): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(336): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(352): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(356): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(360): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(363): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(366): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(369): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(659): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(663): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(770): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(782): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\matte\source\repos\opengl_water waves\opengl_water waves\opengl vertex shader experiments.cpp(781): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  OpenGL_Water Waves.vcxproj -> C:\Users\matte\source\repos\OpenGL_Water Waves\Debug\OpenGL_Water Waves.exe
